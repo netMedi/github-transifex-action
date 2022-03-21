@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.10.3
 
 LABEL "repository"="https://github.com/sergioisidoro/github-transifex-action"
 LABEL "homepage"="https://github.com/sergioisidoro/github-transifex-action"
